@@ -1,1 +1,1 @@
-# .github
+# Luminor AI
